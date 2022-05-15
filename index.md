@@ -12,7 +12,7 @@ print('Stop trying to be a good man, try to be just human\n'*21)
 
 Game design. Concept design. Painter. Photographer.
 
-![image](https://github.com/YuriGribauskasDenis/yurigribauskasdenis.github.io/blob/main/images/posterF.png)
+![image](https://github.com/YuriGribauskasDenis/yurigribauskasdenis.github.io/blob/main/images/posterF.jpg)
 
 ### Writer
 
