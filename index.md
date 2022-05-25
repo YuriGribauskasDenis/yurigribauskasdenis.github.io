@@ -52,7 +52,7 @@ My only currently active project
 
 Crypto Collection & Crypto Game based on its own token.
 
-###PS
+### PS
 
 I am from Ukraine. I saw collapse of empire, uncertain times, witnessed catastrophies. That region teaches you to face instability.
 
