@@ -28,6 +28,8 @@ I had lots of 3D and 2D projects in game design, level design, concept art using
 
 I am a photographer.
 
+My apologies. At this moment I could not make multimedia insertions work in styles proposed by GitHub.
+
 ### Writer
 
 I wrote history books on second world war. Photo albums for Lee Archer.
@@ -46,7 +48,7 @@ I know three languages: Ukrainian, English, Russian; and semi speak two more: Sp
 
 My only currently active project
 
-https://newgrounds.online/
+[NewGrounds](https://newgrounds.online/)
 
 Crypto Collection & Crypto Game based on its own token.
 
